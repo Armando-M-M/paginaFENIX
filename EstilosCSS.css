@@ -1,0 +1,30 @@
+@charset "UTF-8";
+<style media="screen">
+
+html{
+background-color:#006494;
+}
+
+ .nav-link{
+color:black;margin-right:4px;
+}
+/*encabesado*/
+.main-header{
+background-color:#BCB88B1;
+ padding-right: 15px;
+  padding-left:15px;
+   padding-top:10px;
+padding-bottom:10px;
+text-align: center;
+}
+/*alineaciones*/
+.tex-center{/*centro*/
+text-align: center;
+}
+
+/*color letra*/
+.amarillo{
+color:#FCF300;
+}
+
+</style>

@@ -26,5 +26,8 @@ text-align: center;
 .amarillo{
 color:#FCF300;
 }
+.main-contrainer{
+  min-height: 100vh;
+}
 
 </style>
